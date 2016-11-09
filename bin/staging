@@ -1,0 +1,2 @@
+#!/bin/sh
+HEROKU_APP=next-big-thing-staging HKAPP=next-big-thing-staging exec "${HEROKU_COMMAND:-heroku}" "$@"
