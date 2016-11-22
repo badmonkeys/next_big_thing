@@ -1,6 +1,6 @@
 # next_big_thing
 
-This is a Rails 5 app.
+This is a Rails 5 app. Created using the badmonkey saas_rails template.
 
 ## Documentation
 
