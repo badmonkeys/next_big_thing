@@ -23,6 +23,7 @@ this [Rails OS X Setup
 Guide](https://mattbrictson.com/rails-osx-setup-guide).
 
 ## Getting started
+Gotta make sure we have introduction text here.  It will help the other developers!
 
 ### bin/setup
 
