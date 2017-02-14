@@ -1,4 +1,4 @@
-# next_big_thing
+# Next Bbig Thing
 
 This is a Rails 5 app. Created using the badmonkey saas_rails template.
 
